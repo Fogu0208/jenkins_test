@@ -1,0 +1,5 @@
+.venv/
+report/
+new_report/
+__pycache__/
+.idea/
